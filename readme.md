@@ -23,9 +23,9 @@ Open a command shell and run:
 
 ## endpoints
 
-/list : lists all the videos data in the database, also has filtering, ordering and links of the respective videos
-/search : page to enter the search keyword
-/ : result page for the searches
+/list : lists all the videos data in the database, also has filtering, ordering and links of the respective videos  
+/search : page to enter the search keyword  
+/ : result page for the searches  
 
 ## superuser
 
